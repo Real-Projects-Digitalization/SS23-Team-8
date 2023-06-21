@@ -1,5 +1,3 @@
-# SS23 Team 8
-
 # Our Team
 
 ![image](Assignments/Team8.png)
