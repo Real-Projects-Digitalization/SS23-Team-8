@@ -23,4 +23,4 @@ https://www.figma.com/proto/EifPhzuCLj9yfI8Y90Tx3D/prototyp?type=design&node-id=
 
 # GitHub Page & Wiki
 <p> Link to GitHub Page: https://real-projects-digitalization.github.io/SS23-Team-8/ </p>
-<p> [GitHub wiki](https://github.com/Real-Projects-Digitalization/SS23-Team-8/wiki)</p>
+<p> ![GitHub wiki](https://github.com/Real-Projects-Digitalization/SS23-Team-8/wiki)</p>
