@@ -8,7 +8,6 @@
 * Ilayda Imal: University of Applied Sciences Munich / Wirtschaftsinformatik, 6th Semester / [imal@hm.edu](mailto:imal@hm.edu)
 * Adrian Nachtwey:
 
-
 # The Problem
 The challenge faced by refugees with limited German language skills, as well as difficulties in reading and writing, when handling authority mail is a significant and pressing issue. When refugees receive official correspondence from government agencies, such as letters from immigration authorities, social welfare offices, or other relevant institutions, their lack of language proficiency can create a multitude of problems.
 
@@ -24,4 +23,4 @@ https://www.figma.com/proto/EifPhzuCLj9yfI8Y90Tx3D/prototyp?type=design&node-id=
 
 # GitHub Page & Wiki
 <p> Link to GitHub Page: https://real-projects-digitalization.github.io/SS23-Team-8/ </p>
-<p> Link to GitHub Wiki: https://github.com/Real-Projects-Digitalization/SS23-Team-8/wiki </p>
+<p> [GitHub wiki](https://github.com/Real-Projects-Digitalization/SS23-Team-8/wiki)</p>
