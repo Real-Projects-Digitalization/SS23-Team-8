@@ -1,4 +1,4 @@
-# SS23-Team-8
+# SS23-Team-8.io
 
 Ilayda Imal
 Adrian Nachtwey
