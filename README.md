@@ -1,4 +1,4 @@
-# SS23 Team 8.io
+# SS23 Team 8
 
 ![image](Assignments/Team8.png)
 
