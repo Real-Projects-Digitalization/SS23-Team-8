@@ -1,4 +1,4 @@
-# SS23 Team 8.io
+# SS23 Team 8
 
 ![image](Assignments/Team8.png)
 
@@ -9,4 +9,5 @@
 * Adrian Nachtwey:
 
 
-https://real-projects-digitalization.github.io/SS23-Team-8/
+Link to GitHub Page: https://real-projects-digitalization.github.io/SS23-Team-8/
+Link to GitHub Wiki: https://github.com/Real-Projects-Digitalization/SS23-Team-8/wiki
