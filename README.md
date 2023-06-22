@@ -4,7 +4,7 @@
 
 * Schaima Aribi:
 * Maximilian Doll: University of Applied Sciences Munich / Wirtschaftsinformatik, 6th Semester / [m.doll@hm.edu](mailto:m.doll@hm.edu)
-* Christoph Moemkes:
+* Christoph Moemkes: University of Applied Sciences Munich / Betriebswirtschaft, 7th Semester / [christoph.moemkes@hm.edu](mailto:christoph.moemkes@hm.edu)
 * Ilayda Imal: University of Applied Sciences Munich / Wirtschaftsinformatik, 6th Semester / [imal@hm.edu](mailto:imal@hm.edu)
 * Adrian Nachtwey:
 
