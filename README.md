@@ -1,13 +1,5 @@
 # Project BRK Translate
 
-![image](Assignments/Team8.png)
-
-* Schaima Aribi: University of Applied Sciences Munich / Betriebswirtschaftslehre, 5th Semester / [aribi@hm.edu](mailto:aribi@hm.edu)
-* Maximilian Doll: University of Applied Sciences Munich / Wirtschaftsinformatik, 6th Semester / [m.doll@hm.edu](mailto:m.doll@hm.edu)
-* Christoph Moemkes: University of Applied Sciences Munich / Betriebswirtschaft, 7th Semester / [christoph.moemkes@hm.edu](mailto:christoph.moemkes@hm.edu)
-* Ilayda Imal: University of Applied Sciences Munich / Wirtschaftsinformatik, 6th Semester / [imal@hm.edu](mailto:imal@hm.edu)
-* Adrian Nachtwey: University of Applied Sciences Munich / Wirtschaftsinformatik, 6th Semester / [adrian.nachtwey@hm.edu](mailto:adrian.nachtwey@hm.edu)
-
 # The Problem
 The challenge faced by refugees with limited German language skills, as well as difficulties in reading and writing, when handling authority mail is a significant and pressing issue. When refugees receive official correspondence from government agencies, such as letters from immigration authorities, social welfare offices, or other relevant institutions, their lack of language proficiency can create a multitude of problems.
 
